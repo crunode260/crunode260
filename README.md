@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @crunode260
-- 🌱 I’m currently learning multiple high level languages, predominantly C#
+- 🌱 I’m currently enrolled in CS50x and learning multiple high level languages, predominantly C#
 - 📫 How to reach me: crunode260@gmail.com
